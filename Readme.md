@@ -1,3 +1,4 @@
 #Intro to JS Assignment
 
-!{}(http://gph.is/10rnF0r)
+Day 6 assignment
+JS-Intro
